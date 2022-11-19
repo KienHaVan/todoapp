@@ -2,7 +2,7 @@
 
 ###### Opening the app, we are navigated to the SpashScreen
 
-![splash](https://user-images.githubusercontent.com/45453268/202848883-7cc3af06-09cf-4761-9520-98e7672fac32.png)
+<img src="https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/splash.png" alt="..." width="250" />
 
 
 ##### After 2 seconds at SplashScreen, we are navigated to the HomeScreen
