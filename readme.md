@@ -2,13 +2,13 @@
 
 ###### Opening the app, we are navigated to the SpashScreen
 
-![<img src="https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/splash.png" width="500">](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/splash.png)
+![splash](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/splash.png)
 
 ##### After 2 seconds at SplashScreen, we are navigated to the HomeScreen
 
 ##### At the screen, we could see the information about the task that we should do and the task we have done
 
-![splash](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/home.png)
+![home](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/home.png)
 
 #### Main Function
 
@@ -17,6 +17,6 @@
 - User can show and edit the task by clicking into the task.
 - For one who want to delete the task they have done, just clicking onto the button at the bottom left of the screen.
 
-![splash](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/createTask.png)
-![splash](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/categoryChoose.png)
-![splash](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/editTask.png)
+![createTask](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/createTask.png)
+![categoryChoose](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/categoryChoose.png)
+![EditTask](https://github.com/KienHaVan/todoapp/blob/master/src/assets/ImageMarkdown/editTask.png)
