@@ -1,0 +1,17 @@
+export const Img = {
+  TIMER: require('./timer.png'),
+  TAG: require('./tag.png'),
+  SEND: require('./send.png'),
+  HOME: require('./home.png'),
+  MOVIE: require('./movie.png'),
+  HEALTH: require('./health.png'),
+  MUSIC: require('./music.png'),
+  UNIVERSITY: require('./university.png'),
+  DESIGN: require('./design.png'),
+  SPORT: require('./sport.png'),
+  WORK: require('./work.png'),
+  GROCERY: require('./grocery.png'),
+  SOCIAL: require('./social.png'),
+  SPLASH: require('./splash.png'),
+  CLOSE: require('./Close.png'),
+};
